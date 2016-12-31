@@ -1,0 +1,258 @@
+<?xml version="1.0"?>
+<channels>
+  <channel>
+    <name>SPORT CHANNEL</name>
+    <info>SPORT</info>
+	<item>
+      <title>ASN Sports</title>
+      <link>http://202.75.23.33/live/ch26/03.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>AutoSport TV</title>
+      <link>mms://100automoto.tv/100livesport</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Big Ten Network</title>
+      <link>http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8#?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CCTV 5 Sports</title>
+      <link>rtmp://123.66.29.8:1935/ss1live/ playpath=cctv5-2 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://live.idwebtv.com/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CDN Sports Max</title>
+      <link>rtmp://108.168.206.90/cdnsm playpath=cdnsm swfUrl=http://cdn.com.do/wp-content/themes/cdn/js/player.swf live=1 timeout=13 pageUrl=http://cdn.com.do/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>ESPN 2 US</title>
+      <link>rtmp://31.220.0.196:1935/live playpath=espn2 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 timeout=13 pageUrl=http://www.flashtv.co/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>EuroSport 2</title>
+      <link>http://83.139.104.123/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>British Eurosport 2</title>
+      <link>rtmp://80.82.78.85:443/liverepeater/ playpath=21 token=#atd%#$ZH swfUrl=http://popeoftheplayers.pw/atdedead.swf live=1 timeout=13 pageUrl=http://popeoftheplayers.pw/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Extreme Sports</title>
+      <link>http://83.139.104.123/Content/HLS/Live/Channel(extreme_sports)/Stream(03)/index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Fight Box</title>
+      <link>http://stream1.zoovision.com//livespi/fightbox/playlist.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Fight Sports</title>
+      <link>http://202.75.23.37/live/ch20/03.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Fox Sports 2</title>
+      <link>rtmp://31.220.0.196:1935/live/ playpath=fox2xx token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 timeout=13 pageUrl=http://www.flashtv.co/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>France Galop</title>
+      <link>rtmp://strm01.cap-stream.com:1935/rtplive/ playpath=chana.sdp swfUrl=http://www.mytvonline.org/mediaplayer/player.swf live=1 timeout=13 pageUrl=http://www.mytvonline.org/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Kanalsport</title>
+      <link>http://lswb-de-08.servers.octoshape.net:1935/live/kanalsport_2000k/playlist.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>MBC Pro Sports 1</title>
+      <link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>MBC Pro Sports 2</title>
+      <link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>MBC Pro Sports 3</title>
+      <link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>MBC Pro Sports 4</title>
+      <link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Motors TV</title>
+      <link>rtmp://mi2.gv.filmon.com:8086/live/262.high.stream?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>MOTORSPORT US</title>
+      <link>http://motorsport.hopto.org:8080/</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Poker Channel</title>
+      <link>http://195.154.188.161/hls/pokerhd.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Setanta Sport US</title>
+      <link>rtmpe://46.246.124.24:1935/live playpath=ssetanta swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/ live=1 token=#yw%tt#w@kku</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Setanta Sport</title>
+      <link>http://202.75.23.36/live/ch44/03.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>sky sports 1</title>
+      <link>rtmpe://46.246.124.26:1935/live/ playpath=sskys1  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/?b?b*t$ live=1 token=#yw%tt#w@kku</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>sky sports 2</title>
+      <link>rtmpe://46.246.124.26:1935/live/ playpath=sskys2  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/?b?b*t$ live=1 token=#yw%tt#w@kku timeout=15</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>sky sports 3</title>
+      <link>rtmp://80.82.70.106:443/liverepeater playpath=10 swfUrl=http://popeoftheplayers.pw/atdedead.swf pageUrl=http://popeoftheplayers.pw/player3.php?id=10&width=600&height=450/?b?b*t$ token=#atd%#$ZH</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>sky sports 4</title>
+      <link>rtmpe://46.246.124.26:1935/live/ playpath=sskys4 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/?b?b*t$ live=1 token=#yw%tt#w@kku timeout=15</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>sky sports 5</title>
+      <link>rtmpe://46.246.124.23:1935/live/ playpath=sskys5 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://prvservers.com/embed.php?u=sskys1&vw=600&vh=380&domain=www.streams23.org/?b?b*t$ token=#yw%tt#w@kku</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Sky Sports F1</title>
+      <link>rtmpe://46.246.124.26:1935/live/ playpath=sskysf1 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/?b?b*t$ live=1 token=#yw%tt#w@kku timeout=15</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Racing UK</title>
+      <link>rtmp://rrbalancer.broadcast.tneg.de:1935/pw/ruk/ playpath=ruk swfUrl=http://pferdewetten.broadcast.tneg.de/jwplayer/player.swf live=1 pageUrl=http://pferdewetten.broadcast.tneg.de/jwplayer/player.php?type=live&stream=ruk1&token=ccf6c54e62bc5bd667661d5af5d61e8664c75b11</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>SportMax Caribbean</title>
+      <link>http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Sportskool TV</title>
+      <link>rtmp://204.107.26.252/live/686.high.stream?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Sportsnet East Canada</title>
+      <link>http://rogerslive-i.akamaihd.net/hls/live/202800/event/index.m3u8?sd=10&rebase=on</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Sportsnet Extra 1 Canada</title>
+      <link>http://rogerslive-i.akamaihd.net/hls/live/202803/event/index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Sportsnet 1 Canada</title>
+      <link>http://rogerslive-i.akamaihd.net/hls/live/202799/event/index.m3u8?sd=10&rebase=on</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Sportsnet ONTARIO Canada</title>
+      <link>rtmp://31.220.0.104:1935/live playpath=sno swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 timeout=10 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Sportsnet Pacific Canada</title>
+      <link>http://rogerslive-i.akamaihd.net/hls/live/202802/event/index.m3u8?sd=10&rebase=on</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Sportsnet West Canada</title>
+      <link>http://rogerslive-i.akamaihd.net/hls/live/202801/event/index.m3u8?sd=10&rebase=on</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>SportTime TV 1 Germany</title>
+      <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>SportTime TV 2 Germany</title>
+      <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>SportTime TV 3 Germany</title>
+      <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>SportTime TV 4 Germany</title>
+      <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>SportTime TV 5 Germany</title>
+      <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>SportTime TV 6 Germany</title>
+      <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>SportTime TV 7 Germany</title>
+      <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Sports Night</title>
+      <link>rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Tilesport TV Greece</title>
+      <link>rtmp://78.47.151.114/tilesport playpath=movie1 swfUrl=http://www.tilesport.tv/jwplayer/player.swf live=1 timeout=13 pageUrl=http://www.tilesport.tv/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>TRACE Sport</title>
+      <link>rtmp://58.97.57.152/live playpath=hd06 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Viasat Sport E/R</title>
+      <link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATSPORT/variant.m3u8#?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Xtreme Impacts</title>
+      <link>http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+  </channel>
+  <channels></channels>
+</channels>

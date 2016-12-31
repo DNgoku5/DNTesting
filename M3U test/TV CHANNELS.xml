@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<channels>
+  <channel>
+    <name>TV CHANNEL</name>
+    <info>TV</info>
+	<item>
+      <title>MTV</title>
+      <link>rtmp://83.218.202.202/live?b?b*t$ swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CG</title>
+      <link>mmsh://207.7.154.95/G0937_002?wmcache=0&MSWMExt=.asf</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Eska Best Music </title>
+      <link>rtmp://stream.smcloud.net/live2/best/best_720p?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Eska Party</title>
+      <link>rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Eska Polo</title>
+      <link>rtmp://stream.smcloud.net/live/polotv?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Eska Rock</title>
+      <link>rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Eska Tv</title>
+      <link>rtmp://stream.smcloud.net/live/eskatv?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Eska Wawa TV Polska</title>
+      <link>rtmp://stream.smcloud.net/live2/wawa/wawa_360p?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Vevo TV 1</title>
+      <link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Vevo TV 2</title>
+      <link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Vevo TV 3</title>
+      <link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>	
+	<item>
+      <title>Fashion TV</title>
+      <link>http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>AMC</title>
+      <link>http://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419872183</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>BET</title>
+      <link>http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Discovery Channel HD</title>
+      <link>http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Disney Channel</title>
+      <link>http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Hallmark HD</title>
+      <link>http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>HBO HD</title>
+      <link>http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Animal Planet EN</title>
+      <link>http://80.80.160.168/live/1/live.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>TLC</title>
+      <link>http://80.80.160.168/live/2/live.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Planet Green</title>
+      <link>http://80.80.160.168/live/4/live.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>ID</title>
+      <link>http://80.80.160.168/live/5/live.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Discovery Ch HD</title>
+      <link>http://80.80.160.168/live/8/live.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Discovery Sc HD</title>
+      <link>http://80.80.160.168/live/9/live.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>ABC NEWS</title>
+      <link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>ABC News Now</title>
+      <link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Al Jazeera Eng</title>
+      <link>rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId=/aljazeera_eng_high?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId=.flv?b?b*t$ live=1</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>BBC World News</title>
+      <link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Bloomberg</title>
+      <link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CBS</title>
+      <link>rtmp://rtmp.zerocast.tv:1935/live/ playpath=Ger61uLQ4fedzvjRjrB7   swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Big Ten Network</title>
+      <link>http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8#?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CDN Sports Max</title>
+      <link>rtmp://108.168.206.90/cdnsm playpath=cdnsm swfUrl=http://cdn.com.do/wp-content/themes/cdn/js/player.swf live=1 timeout=13 pageUrl=http://cdn.com.do/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CNBC</title>
+      <link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CNN International</title>
+      <link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>GMU TV</title>
+      <link>mms://media.mesa.gmu.edu/capconwhite1</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>HSN TV</title>
+      <link>rtsp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>HSN</title>
+      <link>rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31?b?b*t$ playpath=mp4:420p500kB31</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>HSN 2</title>
+      <link>rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31?b?b*t$ playpath=mp4:468p500kB31</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Planet TV</title>
+      <link>rtsp://origin.biokoda.tv/live/mbit-planet?k=planettv-public</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>THE SHOPPING CHANNEL</title>
+      <link>http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+    </item>
+  </channel>
+  <channels></channels>
+</channels>

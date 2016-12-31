@@ -1,0 +1,1398 @@
+<?xml version="1.0"?>
+<channels>
+  <channel>
+    <name>USA CHANNEL</name>
+    <info>USA</info>
+	<item>
+      <title>Home & Health</title>
+      <link>http://202.75.23.34:1400/live/ch34/03.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Discovery World</title>
+      <link>http://202.75.23.34:1400/live/ch30/03.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+    <item>
+      <title>National Geographic</title>
+      <link>http://202.75.23.35:1400/live/ch38/03.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>abc News</title>
+      <link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on</link>
+      <thumbnail></thumbnail>
+    </item>
+    <item>
+      <title>RT</title>
+      <link>http://odna.octoshape.net/f3f5m2v4/cds/ch4_320p/blizznow.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Studio</title>
+      <link>rtmp://109.200.202.124/live playpath=studio swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/studio.html</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>hbo Plus</title>
+      <link>rtmp://109.200.202.124/live playpath=hboplus swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/hboplus.html</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Telecine fun</title>
+      <link>rtmp://109.200.202.124/live playpath=fun2 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/fun.html</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Space</title>
+      <link>rtmp://109.200.202.124/live playpath=space swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/space.html</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Megapix</title>
+      <link>rtmp://31.204.128.73/live/ playpath=master11 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/mastertv/Megapix.html</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>AXN</title>
+      <link>rtmp://31.204.128.76/live/ playpath=master52 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl>http://www.cdnbr.biz/mastertv/AXN.html</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>MGM</title>
+      <link>rtmp://109.200.202.124/live playpath=mgm swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/mgm.html</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>hbo2</title>
+      <link>rtmp://109.200.202.124/live playpath=hbo2 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/hbo2.html</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>sony</title>
+      <link>rtmp://109.200.202.124/live playpath=sony swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/sony.html</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>sony Spin</title>
+      <link>rtmp://109.200.202.124/live playpath=sonyspin swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/sonyspin.html</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>HBO family</title>
+      <link>rtmp://109.200.202.124/live playpath=hbofamily swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/hbofamily.html</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Telecine touch</title>
+      <link>rtmp://109.200.202.124/live playpath=touch swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/touch.html</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Telecine cult</title>
+      <link>rtmp://109.200.202.124/live playpath=tccult swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/tccult.html</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Telecine Pipoca</title>
+      <link>rtmp://31.204.128.74/live/ playpath=master18 swfUrl=http://www.cdnbr.biz/swf/player.swf pageUrl=http://www.cdnbr.biz/mastertv/Telecine%20Pipoca.html</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>National Geographic</title>
+      <link>rtmp://109.200.202.124/live playpath=natgeo swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/natgeo.html</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Discovery Turbo</title>
+      <link>rtmp://109.200.202.124/live playpath=turbo swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/turbo.html</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Home & Health</title>
+      <link>rtmp://109.200.202.124/live playpath=home swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/home.html</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>HSN TV</title>
+      <link>rtsp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Mission TV</title>
+      <link>rtmp://streamer1.streamhost.org/salive/GMImissiontvh</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Bloomberg</title>
+      <link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Bloomberg</title>
+      <link>http://hd4.lsops.net/live/bloomber_en_hls.smil/chunklist_w976476961_b453000.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CNBC US</title>
+      <link>http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/master.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CNN 2</title>
+      <link>http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>ABC</title>
+      <link>rtmp://rtmp.zerocast.tv:1935/live/ playpath=rGCi7bg0Qxvs8q7Sl13l swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Action Zone</title>
+      <link>rtmp://mi2.gv.filmon.com:8086/live/1045.high.stream?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>AMC</title>
+      <link>rtmp://rtmp.zerocast.tv:1935/live/ playpath=TfRQx7deUAuncJwM047m swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Horrors</title>
+      <link>rtmp://204.107.26.252:8086/live/393.high.stream?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CBC TV 8</title>
+      <link>rtmp://184.154.57.230/cbcvideo playpath=cbcstream?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CBS</title>
+      <link>rtmp://rtmp.zerocast.tv:1935/live/ playpath=Ger61uLQ4fedzvjRjrB7   swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CBS Reality</title>
+      <link>http://hls01-05.az.myvideo.az/hls-live/livepkgr/cbsreality/cbsreality/cbsreality.m3u8&rRb545vJBB5tYzB7vVP</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CG</title>
+      <link>mmsh://207.7.154.95/G0937_002?wmcache=0&MSWMExt=.asf</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>City of Austin</title>
+      <link>rtmp://oflash.dfw.swagit.com/live/austintx/live-1?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>City Of Roswell Live</title>
+      <link>mms://roswell.ecstreams.com/RoswellLive</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Classic Arts Showcase</title>
+      <link>rtmp://streaming.cityofboston.gov/live/cable?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Classic Movies a</title>
+      <link>rtmp://204.107.26.252:8086/live/1991.high.stream?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Classic Movies</title>
+      <link>rtmp://mi2.gv.filmon.com:8086/live/206.high.stream?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Classic TV</title>
+      <link>rtmp://204.107.26.252:8086/live/514.high.stream?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Dmax</title>
+      <link>http://202.75.23.34/live/ch32/03.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Deutsche Welle</title>
+      <link>http://dwtvios_asiaplus-i.akamaihd.net/hls/live/200521-b/dwtvasiaplus/x1x/playlist1x.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>EVE</title>
+      <link>http://202.75.23.34/live/ch34/03.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Fox Life</title>
+      <link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_FOXLIFE/variant.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Fashion TV</title>
+      <link>http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>GINX</title>
+      <link>rtmp://204.107.26.252:8086/live/796.high.stream?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>GMU TV</title>
+      <link>mms://media.mesa.gmu.edu/capconwhite1</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>HSN</title>
+      <link>rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31?b?b*t$ playpath=mp4:420p500kB31</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>HSN 2</title>
+      <link>rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31?b?b*t$ playpath=mp4:468p500kB31</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>LifeTime</title>
+      <link>http://202.75.23.36/live/ch48/03.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>MGM</title>
+      <link>rtmp://109.200.202.124:1935/live playpath=mgm swfUrl=http://www.tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf pageUrl=http://tv-msn.com/mgm.html/?b?b*t$ token=ef8e8620da151301dfa07b3886ab30ad live=1 playpath=mgm</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>PopCorn TV</title>
+      <link>rtmp://mi2.gv.filmon.com:8086/live/716.high.stream?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>TLC</title>
+      <link>http://202.75.23.34/live/ch35/03.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Universal Channel</title>
+      <link>http://secure.ilikehd.com/livetv/player/totlink.m3u8?channel_id=a7105ed1bb0a44bba1f4f71f2352b892</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>WGN</title>
+      <link>http://wgntribune-lh.akamaihd.net/i/WGNTribune_1@109089/master.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>YouToo TV</title>
+      <link>rtmp://204.107.26.252:8086/live/773.high.stream?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Boomerang Eng/Rus</title>
+      <link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Cartoon Network</title>
+      <link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_CN/variant.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CARTOONS AND COMEDY</title>
+      <link>rtmp://mi2.gv.filmon.com:1935/live/_definst_/2734.low.stream?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>English Club TV</title>
+      <link>http://85.187.154.9:2001/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Looney Tunes</title>
+      <link>rtmp://104.130.79.136:1935/live/lt</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Tom & Jerry</title>
+      <link>http://66.90.111.66:1935/ctv/tom/waldo_paes.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>A&E</title>
+      <link>rtmp://109.200.202.124:1935/live playpath=ae_1 swfUrl=http://www.tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf pageUrl=http://tv-msn.com/ae.html/?b?b*t$ token=ef8e8620da151301dfa07b3886ab30ad live=1</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Antena 3 HD</title>
+      <link>http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Doughy Guy Broadcast</title>
+      <link>http://65.60.19.42:8380/</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Planet TV</title>
+      <link>rtsp://origin.biokoda.tv/live/mbit-planet?k=planettv-public</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>RTL plus</title>
+      <link>http://83.139.104.123/Content/HLS/Live/Channel(rtlplus)/Stream(03)/index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Threshold</title>
+      <link>rtmp://204.107.26.252:8086/live/514.high.stream?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>TV 1000 R/E</title>
+      <link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_TV1000/variant.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>TV 1000 Action R/E</title>
+      <link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_TV1000ACTION/variant.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>World Fashion</title>
+      <link>http://46.249.213.93/iPhone/broadcast/worldfashionchannel-tablet.3gp/worldfashionchannel-tablet.3gp-mr648k.m3u8?trackingid=3791770000&os=desktop</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Argent</title>
+      <link>rtmp://cp39414.live.edgefcs.net/live/argent@9751 playpath=argent@9751 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://tv.webactu-webtv.com/canada3/argent.html/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CBC</title>
+      <link>rtmp://d.cdn.newschat.tv/edge playpath=canadas_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/canada/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>THE SHOPPING CHANNEL</title>
+      <link>http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Cinestar Action</title>
+      <link>http://83.139.104.123/Content/HLS/Live/Channel(cinestar_action_and_thriller)/Stream(03)/index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CineStar PREMIERE 1</title>
+      <link>http://83.139.104.123/Content/HLS/Live/Channel(cinestar_premiere_1)/Stream(03)/index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CineStar PREMIERE 2</title>
+      <link>http://83.139.104.123/Content/HLS/Live/Channel(cinestar_premiere_2)/Stream(03)/index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CineStar TV</title>
+      <link>http://83.139.104.123/Content/HLS/Live/Channel(cinestar_tv)/Stream(03)/index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>HRT 1</title>
+      <link>http://83.139.104.123/Content/HLS/Live/Channel(HTV1)/Stream(03)/index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>HRT 2</title>
+      <link>http://83.139.104.123/Content/HLS/Live/Channel(HTV2)/Stream(03)/index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>HRT 3</title>
+      <link>http://83.139.104.123/Content/HLS/Live/Channel(HTV3)/index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>HRT 4</title>
+      <link>http://83.139.104.123/Content/HLS/Live/Channel(HTV4)/index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>KINO TV</title>
+      <link>http://83.139.104.123/Content/HLS/Live/Channel(kino_tv)/Stream(03)/index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>KLASIK TV</title>
+      <link>http://83.139.104.123/Content/HLS/Live/Channel(klasik_tv)/Stream(03)/index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>NOVA TV </title>
+      <link>http://146.0.40.73:8080/ipvt_001</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>RTL 1</title>
+      <link>http://178.218.162.146/918829941/rtl1.stream/chunklist_w151028916.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>RTL 2</title>
+      <link>http://83.139.104.123/Content/HLS/Live/Channel(Rtl_2)/Stream(03)/index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>RTL KOCKICA</title>
+      <link>http://83.139.104.123/Content/HLS/Live/Channel(Rtl_kockica)/Stream(03)/index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Animal Atlas</title>
+      <link>rtmp://mi2.gv.filmon.com:8086/live/799.high.stream?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Animal Planet HD</title>
+      <link>http://202.75.23.34/live/ch31/03.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Animal Planet</title>
+      <link>http://83.139.104.123/Content/HLS/Live/Channel(animal_planet)/Stream(03)/index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Discovery Channel</title>
+      <link>http://202.75.23.34/live/ch29/03.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Discovery Channel</title>
+      <link>http://83.139.104.123/Content/HLS/Live/Channel(discovery_channel)/index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Discovery Channel</title>
+      <link>http://202.75.23.34/live/ch30/03.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Discovery Channel Eng/Rus</title>
+      <link>http://hls.cn.ru/streaming/discovery_hd/16/fullhd/playlist.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Discovery Science</title>
+      <link>http://202.75.23.34/live/ch33/03.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Discovery Science Eng/Rus</title>
+      <link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_DISCOVERYSCIENCE/variant.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Discovery World Eng/Rus</title>
+      <link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_DISCOVERYWORLD/variant.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Discovery World HD</title>
+      <link>http://202.75.23.34/live/ch30/03.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>FilmBox DocuBox</title>
+      <link>http://stream1.zoovision.com//livespi/docubox/playlist.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>FilmBox ArtHouse</title>
+      <link>http://stream1.zoovision.com//livespi/arthouse/playlist.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>fyi HD</title>
+      <link>http://202.75.23.36/live/ch46/03.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>NASA media ch</title>
+      <link>http://media.infozen.cshls.lldns.net/infozen/media/media/media_1000.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>NASA TV HD</title>
+      <link>http://public.infozen.cshls.lldns.net/infozen/public/public.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>National Geographic HD Eng/Rus</title>
+      <link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_NATGEO/variant.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>National Geographic People</title>
+      <link>http://202.75.23.35/live/ch38/03.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Nat Geo Wild</title>
+      <link>http://202.75.23.35/live/ch39/03.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Nat Geo Wild Eng/Rus</title>
+      <link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_NATGEOWILD/variant.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Outdoor Channel</title>
+      <link>rtmp://lm02.everyon.tv:1935/ptv2/pld613?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>RT Documentary HD</title>
+      <link>http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Viasat Explorer</title>
+      <link>http://83.139.104.123/Content/HLS/Live/Channel(viasat_explore)/Stream(03)/index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Viasat History</title>
+      <link>http://83.139.104.123/Content/HLS/Live/Channel(viasat_history)/Stream(03)/index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Viasat Nature ENG/RUS</title>
+      <link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATNATURE/variant.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Viasat Nature ENG/RUS</title>
+      <link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATNATURE/variant.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>War Channel</title>
+      <link>rtmp://mi2.gv.filmon.com:8086/live/805.high.stream?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>ABC News Now</title>
+      <link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Al Jazeera Eng</title>
+      <link>rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId=/aljazeera_eng_high?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId=.flv?b?b*t$ live=1</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>AP Direct</title>
+      <link>http://62.213.85.137/hls/enf.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>BBC World News</title>
+      <link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Bloomberg</title>
+      <link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Bloomberg TV</title>
+      <link>http://hd4.lsops.net/live/bloomber_en_hls.smil/chunklist_w976476961_b453000.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CBC news</title>
+      <link>rtmp://d.cdn.newschat.tv/edge playpath=canadas_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/canada/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CCTV news</title>
+      <link>http://77.36.61.45:8010/CCTVNews.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Channel News Asia</title>
+      <link>http://202.75.23.37:1400/live/ch15/04.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CNBC News US</title>
+      <link>http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/master.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CNBC News UK</title>
+      <link>rtmp://d.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/stocks/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CNN SD</title>
+      <link>rtmp://c.cdn.livenewschat.eu/edge/ playpath=cnn_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://weplaylive.tv/live-news-stream/?b?b*t$ swfVfy=true live=true timeout=60</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CNN HD</title>
+      <link>http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>FOX 59 News indy</title>
+      <link>http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>KTLA 5</title>
+      <link>http://ktlatribune-lh.akamaihd.net/i/KTLATribune_1@109091/master.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>MSNBC US</title>
+      <link>rtmp://c.cdn.livenewschat.eu/edge playpath=msnbc_live swfUrl=http://msnbclive.eu/player.swf swfVfy=1 live=1 pageUrl=http://weplaylive.tv/?b?b*t$ timeout=15</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>News12 Connecticut</title>
+      <link>rtmp://fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000 playpath=fs-bbe3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-bbe3010000000000 pageUrl=http://www.news12.com/player/flowplayer/.live_player.html?region=CTTW/?b?b*t$ live=true swfVfy=true timeout=10</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>News12 Connecticut Weather&T</title>
+      <link>rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b6e3010000000000 playpath=fs-b6e3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-b6e3010000000000 pageUrl=http://www.news12.com/player/flowplayer/.live_player.html?region=CTTW/?b?b*t$ live=true swfVfy=true timeout=10</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>News12 Hudson Valley</title>
+      <link>rtmp://fs-bae3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000 playpath=fs-bae3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-bae3010000000000 pageUrl=http://www.news12.com/player/flowplayer/.live_player.html?region=WCTW/?b?b*t$ live=true swfVfy=true timeout=10</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>News12 Long Island</title>
+      <link>rtmp://fs-b94e110000000000.id.cdn.cv.net/vxedge/fs-b94e110000000000 playpath=fs-b94e110000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-b94e110000000000 pageUrl=http://www.news12.com/player/flowplayer/.live_player.html?region=LITW/?b?b*t$ live=true swfVfy=true timeout=10</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>News12 Long Island Weather&T</title>
+      <link>rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000 playpath=fs-aee3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-aee3010000000000 pageUrl=http://www.news12.com/player/flowplayer/.live_player.html?region=LITW/?b?b*t$ live=true swfVfy=true timeout=10</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>News12 New Jersey</title>
+      <link>rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000 playpath=fs-b9e3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-b9e3010000000000 pageUrl=http://www.news12.com/player/flowplayer/live_player.html?region=NJ/?b?b*t$ live=true swfVfy=true timeout=10</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>News12 New Jersey Weather&T</title>
+      <link>rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000 playpath=fs-b3e3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-b3e3010000000000 pageUrl=http://www.news12.com/player/flowplayer/live_player.html?region=NJ/?b?b*t$ live=true swfVfy=true timeout=10</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>News12 NY Brooklyn</title>
+      <link>rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000 playpath=fs-ace3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-ace3010000000000 pageUrl=http://www.news12.com/player/flowplayer/.live_player.html?region=NYTW/?b?b*t$ live=true swfVfy=true timeout=10</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>News 12 NY Bronx</title>
+      <link>rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000 playpath=fs-b5e3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-b5e3010000000000 pageUrl=http://www.news12.com/player/flowplayer/.live_player.html?region=NYTW/?b?b*t$ live=true swfVfy=true timeout=10</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>News12 New York Weather&T</title>
+      <link>rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000 playpath=fs-afe3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-afe3010000000000 pageUrl=http://www.news12.com/player/flowplayer/.live_player.html?region=NYTW/?b?b*t$ live=true swfVfy=true timeout=10</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>News12 Westchester</title>
+      <link>rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000 playpath=fs-bce3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-bce3010000000000 pageUrl=http://www.news12.com/player/flowplayer/.live_player.html?region=WCTW/?b?b*t$ live=true swfVfy=true timeout=10</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>News12 Westchester Weather&T</title>
+      <link>rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000 playpath=fs-b8e3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-b8e3010000000000 pageUrl=http://www.news12.com/player/flowplayer/.live_player.html?region=WCTW/?b?b*t$ live=true swfVfy=true timeout=10</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Press TV</title>
+      <link>rtmp://204.107.26.252:8086/live/905.high.stream?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Russia Today ENG</title>
+      <link>http://odna.octoshape.net/f3f5m2v4/cds/ch1_720p/chunklist.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Sky TG24</title>
+      <link>http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Sky News</title>
+      <link>rtmp://a.cdn.newschat.tv/edge playpath=skyuk_live live=1 timeout=10 swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/sky/?b?b*t$</link></link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>MTV</title>
+      <link>rtmp://83.218.202.202/live?b?b*t$ swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>MTV Music</title>
+      <link>http://83.139.104.123/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>MTV DANCE</title>
+      <link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>MTV HITS</title>
+      <link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>MTV ROCKS</title>
+      <link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>VH1</title>
+      <link>rtmp://edge03-03.az.myvideo.az/dvrh264/vh1/ playpath=mp4:vh1 swfUrl=http://www.myvideo.az/stml/dvr/dvrH.swf?v=1.2 live=1 pageUrl=http://www.myvideo.az/r.ates/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>VH-1 Classic</title>
+      <link>http://gogo.jksw.cz:8024</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>4MUSIC</title>
+      <link>http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Capital TV</title>
+      <link>rtmp://cdn-the-2.musicradio.com:80/LiveVideo/Capital?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CineStream TV</title>
+      <link>http://68.71.42.179/live/livestream1/playlist.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Eska Best Music </title>
+      <link>rtmp://stream.smcloud.net/live2/best/best_720p?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Eska Party</title>
+      <link>rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Eska Polo</title>
+      <link>rtmp://stream.smcloud.net/live/polotv?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Eska Rock</title>
+      <link>rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Eska Tv</title>
+      <link>rtmp://stream.smcloud.net/live/eskatv?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Eska Wawa TV Polska</title>
+      <link>rtmp://stream.smcloud.net/live2/wawa/wawa_360p?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Heart TV</title>
+      <link>rtmp://cdn-sov-2.musicradio.com:80/LiveVideo//Heart</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Heat</title>
+      <link>http://csm-e.cds1.yospace.com/csm/live/86561584.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Jazz</title>
+      <link>rtmp://149.11.34.78/live/jazztv.stream?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>JAZZ & BLUES TV</title>
+      <link>rtmp://mi2.gv.filmon.com:8086/live/530.high.stream?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Kiss TV</title>
+      <link>http://csm-e.cds1.yospace.com/csm/live/86561716.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>LIVE CLASSIC HD</title>
+      <link>rtmp://91.201.78.3/live playpath=classicshd swfurl=http://www.livehd.tv/player/player.swf live=1 pageurl=http://www.livehd.tv/live.php?stream=classics&resolution=hd/?b?b*t$ token=6c69766568642e747620657374652063656c206d616920746172652121</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>LIVE DANCE HD</title>
+      <link>rtmp://91.201.78.3/live playpath=dancehd swfurl=http://www.livehd.tv/player/player.swf live=1 pageurl=http://www.livehd.tv/live.php?stream=dance&resolution=hd/?b?b*t$ token=6c69766568642e747620657374652063656c206d616920746172652121</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>LIVE JAZZ HD</title>
+      <link>rtmp://91.201.78.3/live playpath=jazzhd swfurl=http://www.livehd.tv/player/player.swf live=1 pageurl=http://www.livehd.tv/live.php?stream=jazz&resolution=hd/?b?b*t$ token=6c69766568642e747620657374652063656c206d616920746172652121</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>LIVE MIX HD</title>
+      <link>rtmp://91.201.78.3/live playpath=onehdhd swfurl=http://www.livehd.tv/player/player.swf live=1 pageurl=http://www.livehd.tv/live.php?stream=livemix&resolution=hd/?b?b*t$ token=6c69766568642e747620657374652063656c206d616920746172652121</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>LIVE POP HD</title>
+      <link>rtmp://91.201.78.3/live playpath=pophd swfurl=http://www.livehd.tv/player/player.swf live=1 pageurl=http://www.livehd.tv/live.php?stream=pop&resolution=hd/?b?b*t$ token=6c69766568642e747620657374652063656c206d616920746172652121</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>LIVE ROCK HD</title>
+      <link>rtmp://91.201.78.3/live playpath=rockhd swfurl=http://www.livehd.tv/player/player.swf live=1 pageurl=http://www.livehd.tv/live.php?stream=rock&resolution=hd/?b?b*t$ token=6c69766568642e747620657374652063656c206d616920746172652121</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Magic</title>
+      <link>http://csm-e.cds1.yospace.com/csm/live/86561776.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Smash Hits!</title>
+      <link>http://csm-e.cds1.yospace.com/csm/live/86561609.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>M6 Music black</title>
+      <link>https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_black_hls_aes/m6_music_black_hls_aes_856.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>M6 Music Club</title>
+      <link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_club_hls_aes/m6_music_club_hls_aes_856.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Music Legends</title>
+      <link>rtmp://mi2.gv.filmon.com:8086/live/257.high.stream?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Reggae Entertainment Television</title>
+      <link>http://rjr_flash-lh.akamaihd.net/i/retv_1@177154/master.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Rouge TV</title>
+      <link>http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8?by_HasBahCa</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>The Box</title>
+      <link>http://csm-e.cds1.yospace.com/csm/live/86561631.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Trace Urban</title>
+      <link>http://46.249.213.87/iPhone/broadcast/tracetvurban-tablet.3gp/tracetvurban-tablet.3gp-mr647k.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Vevo TV 1</title>
+      <link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Vevo TV 2</title>
+      <link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Vevo TV 3</title>
+      <link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Virgin 1</title>
+      <link>rtmp://fms.105.net:1935/live/virgin1 playpath=virgin1 swfurl=http://www.highermedia.com/assets/flash/jw_player.swf live=1 pageurl=http://www.google.com/Virgin?b?b*t$ 1</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>ASN Sports</title>
+      <link>http://202.75.23.33/live/ch26/03.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>AutoSport TV</title>
+      <link>mms://100automoto.tv/100livesport</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>beIN Sports 2</title>
+      <link>http://202.75.23.37/live/ch19/03.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>BeIN Sports 3</title>
+      <link>rtmp://31.220.0.194:1935/live playpath=bns3 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn9&vw=620&vh=490/?b?b*t$ token=%ZZri(nKa@#Z timeout=10</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Big Ten Network</title>
+      <link>http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8#?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CCTV 5 Sports</title>
+      <link>rtmp://123.66.29.8:1935/ss1live/ playpath=cctv5-2 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://live.idwebtv.com/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>CDN Sports Max</title>
+      <link>rtmp://108.168.206.90/cdnsm playpath=cdnsm swfUrl=http://cdn.com.do/wp-content/themes/cdn/js/player.swf live=1 timeout=13 pageUrl=http://cdn.com.do/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>ESPN 2 US</title>
+      <link>rtmp://31.220.0.196:1935/live playpath=espn2 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 timeout=13 pageUrl=http://www.flashtv.co/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Extreme Sports</title>
+      <link>http://83.139.104.123/Content/HLS/Live/Channel(extreme_sports)/Stream(03)/index.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Fight Box</title>
+      <link>http://stream1.zoovision.com//livespi/fightbox/playlist.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Fight Sports</title>
+      <link>http://202.75.23.37/live/ch20/03.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Fox Sports 2</title>
+      <link>rtmp://31.220.0.196:1935/live/ playpath=fox2xx token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 timeout=13 pageUrl=http://www.flashtv.co/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Fox Sports LOW</title>
+      <link>rtmp://31.204.153.72/ app=live/ playpath=fsb swfUrl=http://www.cdnbr.biz/swf/player.swf live=true timeout=15 pageUrl=http://www.cdnbr.biz/mastertv/FSB.html/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Kanalsport</title>
+      <link>http://lswb-de-08.servers.octoshape.net:1935/live/kanalsport_2000k/playlist.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>MBC Pro Sports 1</title>
+      <link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>MBC Pro Sports 2</title>
+      <link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>MBC Pro Sports 3</title>
+      <link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>MBC Pro Sports 4</title>
+      <link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Poker Channel</title>
+      <link>http://195.154.188.161/hls/pokerhd.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Setanta Sport US</title>
+      <link>rtmpe://46.246.124.24:1935/live playpath=ssetanta swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/ live=1 token=#yw%tt#w@kku</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Setanta Sport</title>
+      <link>http://202.75.23.36/live/ch44/03.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>2 Broke Girls</title>
+      <link>rtmp://198.27.75.99/app playpath=2bg01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Adventure Time</title>
+      <link>http://62.210.76.216:8080/hls/adventure.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>All In The Family</title>
+      <link>rtmp://198.27.75.99/app/ playpath=aitf swfUrl=http://tgun.tv/jwplayer/player.swf pageUrl=http://tgun.tv/shows/ch3/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>American dad SD</title>
+      <link>rtmp://104.130.79.136:1935/live/ad</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>American dad HD</title>
+      <link>http://62.210.76.216:8080/hls/amerx.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>ANGER MANAGEMENT</title>
+      <link>rtmp://198.27.75.99/app/ playpath=anger02 swfUrl=http://tgun.tv/jwplayer/player.swf pageUrl=http://tgun.tv/shows/ch3/?b?b*t$ playpath=anger02</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Aqua Teen Hunger Force HD</title>
+      <link>http://62.210.76.216:8080/hls/aquasx.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Archer HD</title>
+      <link>http://62.210.76.216:8080/hls/archerxhd.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Arrested Development</title>
+      <link>rtmp://198.27.75.99/app playpath=arrested01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Becker</title>
+      <link>rtmp://198.27.75.99/app playpath=beck swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Bobs Burgers HD</title>
+      <link>http://62.210.76.216:8080/hls/bobsxd.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>BreAkinG BaD HD</title>
+      <link>http://62.210.76.216:8080/hls/bbkinb.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>BURN NOTICE</title>
+      <link>rtmp://192.99.38.122/app/ playpath=burnnotice03 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://tgun.tv/shows/ch1/?b?b*t$ playpath=burnnotice03</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Cheers</title>
+      <link>rtmp://198.27.75.99/app playpath=cheers01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Community</title>
+      <link>rtmp://198.27.75.99/app playpath=community01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Cops Tv series</title>
+      <link>rtmp://198.27.75.99/app playpath=cops01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Curb Your Enthusiasm</title>
+      <link>rtmp://192.99.38.122/app/ playpath=curbs03 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://tgun.tv/shows/ch1/?b?b*t$ playpath=curbs03</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Dragon Ball French</title>
+      <link>http://62.210.76.216:8080/hls/fuckoutlosers.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Eastbound & Down</title>
+      <link>rtmp://198.27.75.99/app playpath=east swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?east live=true</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Family guy HD</title>
+      <link>http://195.154.188.161/hls/famguyhdx.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Family guy</title>
+      <link>rtmp://192.99.38.122/app/ playpath=familyguy02 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://tgun.tv/shows/ch1/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Friends</title>
+      <link>rtmp://192.99.38.122/app playpath=friends02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/embeds/index.php?friends02&widthid=600&heightid=480/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Futurama</title>
+      <link>rtmp://198.27.75.99/app playpath=2501 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Futurama HD</title>
+      <link>http://62.210.76.216:8080/hls/futurx.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Game of Thrones HD</title>
+      <link>http://62.210.76.216:8080/hls/gamehd.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Hangin With MR.Cooper</title>
+      <link>rtmp://198.27.75.99/app/ playpath=cooper swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://tgun.tv/shows/ch1/?b?b*t$ playpath=cooper</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>SD Movies 24/7</title>
+      <link>rtmp://104.130.79.136:1935/live/mv?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>HD Movies 24/7</title>
+      <link>rtmp://62.210.76.216/live2 playpath=stopstealingmyshitmotherfuckers swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 pageUrl=http://www.stream4free.eu/movies-hd/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Home Improvement</title>
+      <link>rtmp://198.27.75.99/app playpath=home01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>House Of Cards HD</title>
+      <link>http://62.210.76.216:8080/hls/housecard.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>It's Always Sunny IN Philadelphia</title>
+      <link>rtmp://192.99.38.122/app/ playpath=sunny02 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://tgun.tv/shows/ch1/?b?b*t$ playpath=sunny02</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Just Shoot Me</title>
+      <link>rtmp://198.27.75.99/app playpath=shootme swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>King Of The Hill HD</title>
+      <link>http://62.210.76.216:8080/hls/kinghillhxd.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Lost HD</title>
+      <link>http://62.210.76.216:8080/hls/lostfree.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Mad Men HD</title>
+      <link>http://62.210.76.216:8080/hls/madmen.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Malcolm In The Middle</title>
+      <link>rtmp://198.27.75.99/app playpath=malcolm swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?malcolm/?b?b*t$ live=true</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Man VS wild HD</title>
+      <link>http://195.154.188.161/hls/manwildushdx.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Married With Children</title>
+      <link>rtmp://192.99.38.122/app/ playpath=mwc02 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://tgun.tv/shows/ch1/?b?b*t$ playpath=mwc02</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title> M*A*S*H</title>
+      <link>rtmp://192.99.38.122/app/ playpath=mash02 swfUrl=http://tgun.tv/jwplayer/player.swf pageUrl=http://tgun.tv/shows/ch1/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Modern Family</title>
+      <link>rtmp://198.27.75.99/app/ playpath=mfamily02 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://tgun.tv/shows/ch1/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>New Girl</title>
+      <link>rtmp://198.27.75.99/app playpath=ng swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?ng/?b?b*t$ live=true</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>News Radio</title>
+      <link>rtmp://198.27.75.99/app playpath=nradio swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?nradio/?b?b*t$ live=true</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Northern Exposure</title>
+      <link>rtmp://198.27.75.99/app playpath=northern swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?northern/?b?b*t$ live=true</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>OZ</title>
+      <link>rtmp://198.27.75.99/app playpath=oz02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/?b?b*t$ playpath=oz02</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>SCRUBS</title>
+      <link>rtmp://192.99.38.122/app/ playpath=scrubs02 swfUrl=http://tgun.tv/jwplayer/player.swf pageUrl=http://tgun.tv/shows/ch1/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Seinfeld</title>
+      <link>rtmp://198.27.75.99/app playpath=seinfeld02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>South Park HD</title>
+      <link>http://62.210.76.216:8080/hls/cartmanhd.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>STAR TREK</title>
+      <link>rtmp://192.99.38.122/app/ playpath=tng02 swfUrl=http://tgun.tv/jwplayer/player.swf pageUrl=http://tgun.tv/shows/ch1/?b?b*t$ playpath=tng02</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Sons of Anarchy HD</title>
+      <link>http://62.210.76.216:8080/hls/soaxhd.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>That 70s Show</title>
+      <link>rtmp://198.27.75.99/app playpath=that70sshow swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?that70sshow/?b?b*t$ live=true</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>The Cleveland Show HD</title>
+      <link>http://62.210.76.216:8080/hls/clevx.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Bill Cosby</title>
+      <link>rtmp://198.27.75.99/app/ playpath=cosby swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://tgun.tv/shows/ch1/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>The Drew Carey Show</title>
+      <link>rtmp://198.27.75.99/app playpath=drewcarey swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?drewcarey/?b?b*t$ live=true</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>THE KING OF QUEENS</title>
+      <link>rtmp://192.99.38.122/app/ playpath=koq02 swfUrl=http://tgun.tv/jwplayer/player.swf pageUrl=http://tgun.tv/shows/ch3/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>The Office</title>
+      <link>rtmp://192.99.38.122/app playpath=office02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?office02/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>The Sopranos</title>
+      <link>rtmp://198.27.75.99/app playpath=sopranos swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?sopranos/?b?b*t$ live=true</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>The Walking Dead</title>
+      <link>rtmp://198.27.75.99/app playpath=twd02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?twd02/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>The Walking Dead HD</title>
+      <link>http://62.210.76.216:8080/hls/xwalkingdead.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>The Big Bang Theory HD</title>
+      <link>http://62.210.76.216:8080/hls/xtbbtheory.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>The Simpsons</title>
+      <link>rtmp://198.27.75.99/app playpath=2502 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>The Simpsons HD</title>
+      <link>http://62.210.76.216:8080/hls/simpsx.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Third Rock From The Sun</title>
+      <link>rtmp://198.27.75.99/app playpath=rock swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Three's Company</title>
+      <link>rtmp://198.27.75.99/app/ playpath=3scom01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://tgun.tv/shows/ch1/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Two & a Half Men</title>
+      <link>rtmp://192.99.38.122/app playpath=men02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/embeds/index.php?men02&widthid=600&heightid=450</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title> Vikings</title>
+      <link>rtmp://198.27.75.99/app/ playpath=vikings02 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://tgun.tv/shows/ch1/?b?b*t$ playpath=vikings02</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Weeds HD</title>
+      <link>http://62.210.76.216:8080/hls/weedshdx.m3u8?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>Will & Grace</title>
+      <link>rtmp://198.27.75.99/app playpath=wag swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>X FILES</title>
+      <link>rtmp://192.99.38.122/app/ playpath=xfiles02 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://tgun.tv/shows/ch1/?b?b*t$</link>
+      <thumbnail></thumbnail>
+    </item>
+  </channel>
+  <channels></channels>
+</channels>
